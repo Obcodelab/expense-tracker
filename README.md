@@ -1,4 +1,4 @@
-# 🚀 Flask-based Expense Tracker
+the# 🚀 Flask-based Expense Tracker
 
 A simple yet powerful **Expense Tracker API** built with **Flask & SQLAlchemy**.
 This API helps users manage **expense categories** and **track their spending** efficiently.
@@ -67,6 +67,8 @@ flask run --reload
 ```
 
 📌 API Endpoints
+
+The API will be available at http://127.0.0.1:5000
 
 🔹 Categories
 | Method | Endpoint | Description |
